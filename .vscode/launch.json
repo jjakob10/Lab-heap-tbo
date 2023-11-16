@@ -1,0 +1,13 @@
+{
+  "configurations": [
+      {
+          "name": "debugar codigo",
+          "type": "cppdbg",
+          "request": "launch",
+          "cwd": "${workspaceRoot}",
+          "program": "${workspaceRoot}\\a.out",
+          "args": ["4","in/pendulum4.txt"],
+          "preLaunchTask": "compilacao",
+      }
+  ]
+}

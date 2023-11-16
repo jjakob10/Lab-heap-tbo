@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    "algorithms.h": "c",
+    "queue.h": "c",
+    "deque.h": "c",
+    "tsp.h": "c",
+    "functional": "c",
+    "typeinfo": "c",
+    "unionfind.h": "c",
+    "kruskal.h": "c",
+    "Adjacencylist.h": "c",
+    "hashset.h": "c",
+    "linkedlist.h": "c",
+    "values.h": "c",
+    "value.h": "c",
+    "stdlib.h": "c",
+    "wordkey.h": "c",
+    "string.h": "c",
+    "rbt.h": "c",
+    "wordindex.h": "c",
+    "arraylist.h": "c"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
+}
